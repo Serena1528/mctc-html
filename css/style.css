@@ -1,0 +1,13 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(245, 245, 220);
+}
+
+h1{
+    font-family: monospace;
+}
+
+li{
+    font-size: 20px;
+    color: brown;
+}
